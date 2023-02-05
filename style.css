@@ -1,0 +1,17 @@
+.input-section{
+    background-color: #644f56fa;
+    color: aliceblue;
+}
+.adjust{
+    width: 70%;
+    margin: auto;
+    padding: 1rem;
+}
+.btn{
+    margin: 0 1rem;
+}
+#sub-Section input{
+/* padding: 0.5rem 0; */
+/* line-height:2rem; */
+margin: 0.2rem;
+}
