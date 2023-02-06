@@ -10,8 +10,20 @@
 .btn{
     margin: 0 1rem;
 }
+.red{
+    color: red;
+    font-size: 1.5rem;
+}
 #sub-Section input{
 /* padding: 0.5rem 0; */
 /* line-height:2rem; */
 margin: 0.2rem;
 }
+/* .tableSection{
+    overflow-wrap: normal;
+    width: 80%;
+}
+#table-body{
+overflow:auto;
+
+} */
